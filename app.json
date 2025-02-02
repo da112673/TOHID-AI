@@ -8,9 +8,9 @@
   "stack": "container",
   "env": {
     "OWNERS": {
-      "description": "917849917350",
+      "description": "923298275404",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -23,14 +23,14 @@
       "value": ""
     },
     "SESSION_ID": {
-      "description": "your session id",
+      "description": "TE41jCTD#ULQW5UeCrBtypN8pG8hTxg8bfZEDVxdfzQEL1e7VIkc",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "MODE": {
       "description": "mode public or private",
       "required": true,
-      "value": ""
+      "value": "true"
     },
     "PREFIX": {
       "description": "put any one symbol here except @ and + , leave it Blank if you want to use multiple prefix",
